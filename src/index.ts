@@ -827,7 +827,7 @@ export const right = [
     "draese",     // Olli Draese      - Sr Principal Software Engineer
     "dryden",     // Cam Dryden       - Regional Sales Manager
     "duca",       // Duca Duca        - Dir, Professional Services
-    "dugas",      // Paul Dugas       - Principlal Software Engineer
+    "dugas",      // Paul Dugas       - Principal Software Engineer
     "duke",       // David Duke       - Sr Technical Writer
     "dzhumakaliev", // Ruslan Dzhumakaliev - Software Engineer II
     "easley",     // Bryce Easley     - Sr Software Engineer
